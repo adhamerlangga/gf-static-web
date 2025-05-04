@@ -88,3 +88,5 @@ st.markdown("""
     (Jujur gaktau makna lagunya apa sebenernya, tapi semoga pesanku tersampaikan ya ✌)
 </div>
 """, unsafe_allow_html=True)
+
+st.balloons()
