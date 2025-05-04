@@ -65,7 +65,7 @@ else:
     st.error("Failed to load image.")
 
 st.markdown("""
-<div style='text-align: center; font-size: 20px;'>
+<div style='text-align: center; color: white; font-size: 20px;'>
     CIEEE 25 TAHUNNNNN, rasanya kayak baru kemarin masih 19 tahun 😝
     <br><br>
     Semoga di umur kamu yang 25 ini semua yang kamu inginkan dapat tercapai yaaa bebskiii, aamiinnnnn
@@ -82,7 +82,7 @@ audio_bytes = audio_file.read()
 st.audio(audio_bytes, format='audio/mp3', start_time=57)
 
 st.markdown("""
-<div style='text-align: center; font-size: 20px;'>
+<div style='text-align: center; color: white; font-size: 20px;'>
     Pemilihan lagu di atas maksudnya justru karena 25 tahun inilah kita harus semakin sayang sama diri kita sendiri hehehehe
     <br><br>
     (Jujur gaktau makna lagunya apa sebenernya, tapi semoga pesanku tersampaikan ya ✌)
